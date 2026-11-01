@@ -28,7 +28,7 @@
         "illuminate/events": "^12.49",
         "monolog/monolog": "^2.8",
         "php-di/php-di": "^7",
-        "phpmailer/phpmailer": "^7.0",
+        "phpmailer/phpmailer": "^7.1",
         "slim/psr7": "^1.5",
         "slim/slim": "^4.10",
         "stripe/stripe-php": "^19.3",
