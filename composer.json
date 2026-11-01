@@ -30,7 +30,7 @@
         "php-di/php-di": "^7",
         "phpmailer/phpmailer": "^7.0",
         "slim/psr7": "^1.5",
-        "slim/slim": "^4.10",
+        "slim/slim": "^4.15",
         "stripe/stripe-php": "^19.3",
         "symfony/cache": "^8.0",
         "symfony/mailer": "^8.0",
