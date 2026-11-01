@@ -26,7 +26,7 @@
         "ext-json": "*",
         "illuminate/database": "^12.49",
         "illuminate/events": "^12.49",
-        "monolog/monolog": "^2.8",
+        "monolog/monolog": "^3.12",
         "php-di/php-di": "^7",
         "phpmailer/phpmailer": "^7.0",
         "slim/psr7": "^1.5",
